@@ -1,6 +1,9 @@
 MARCHING SQUARES ALGORITHM
 
-Tema 1 APD - Balagiu Darian - 334CB
+Cerinta:
+Paraelizarea cu ajutorul Pthreads in C/C++ a unui program
+care genereaza contururi pentru harti topologice folosind algoritmul Marching Squares. Scopul final este de
+a se obtine aceleasi fisiere de iesire ca la varianta secventiala, dar cu timpi de executie imbunatatiti. 
 
 Implementarea solutiei multi-threading a algoritmului Marching Sqaures a fost realizata folosind functiile "pthread_create" si "pthread_join" din biblioteca <pthread.h>. Sincronizarea threadurilor a fost realizata prin intermediul barierei si a functiilor aferente din biblioteca "pthread_barrier_mac.c".
 
