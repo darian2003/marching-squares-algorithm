@@ -1,4 +1,4 @@
-# tema1
+MARCHING SQUARES ALGORITHM
 
 Tema 1 APD - Balagiu Darian - 334CB
 
