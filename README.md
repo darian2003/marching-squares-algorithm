@@ -1,4 +1,4 @@
-MARCHING SQUARES ALGORITHM
+# MARCHING SQUARES ALGORITHM
 
 Cerinta:
 Paraelizarea cu ajutorul Pthreads in C/C++ a unui program
